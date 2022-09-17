@@ -1,19 +1,21 @@
-# NLW eSports -
+# Nintendo Games Hub
 
-![preview](./.github/preview.png)
+![preview](./.github/preview.gif)
 
-> Trilha Explorer
+> # Description / Descrição
 
-Gamehub, perfil agregador para gamers. Contém jogos e canais de streamers favoritos, além dos contatos do perfil. Projeto construído na Next Level Week da Rocketseat.
+Project made with the theme of Nintendo games. Aggregator profile with the user's favorite games and streamers' channels. It also contains the profile's contacts. Project built at Rocketseat's Next Level Week.
 
-[🔗 Clique aqui para acessar](https://vitorfnery.github.io/nlw9-esports-explorer/)
+Projeto feito com o tema de jogos da [Nintendo](https://www.nintendo.com/). Perfil agregador com jogos e canais de streamers favoritos do usuário. Contém também os contatos do perfil. Projeto construído na Next Level Week da Rocketseat.
 
-## 🛠️ Tecnologias
+[🔗 Click here to access / Clique aqui para acessar](https://vitorfnery.github.io/nintendo_hub/)
+
+## 🛠️ Technologies / Tecnologias
 
 - HTML
 - CSS
 - Git e Github
 
-## 📣 Contato
+## 📣 Contact / Contato
 
 vitorfelipenery@gmail.com
